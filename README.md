@@ -16,10 +16,6 @@ Downloads is an innovative software solution designed to serve as a central hub 
 
 * **Multiple Storage Backends:** The system supports a variety of storage backends, enabling users to save downloads to local storage as well as remote locations like network shares (NFS, SMB), FTP, FTPS, SSHFS, and other protocols. This flexibility ensures that downloads can be stored in the most convenient or secure location depending on user needs.
 
-## Tech Stack
-
-List the primary technologies used in the project (e.g., programming languages, frameworks, libraries, database systems).
-
 ## Installation
 
 Provide clear steps on how to set up the project locally, including any prerequisites.
