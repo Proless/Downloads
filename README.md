@@ -1,7 +1,5 @@
 # Downloads
 
-## Description
-
 A brief description of what the project does, its main features, and the problem it aims to solve.
 
 ## Target Users
