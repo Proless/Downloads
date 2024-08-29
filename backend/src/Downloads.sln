@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Downloads.API", "Downloads.API\Downloads.API.csproj", "{DF402F98-FC68-45E5-81C7-82933E604287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downloads.Server", "Downloads.Server\Downloads.Server.csproj", "{AF104A57-00A3-459C-BAE6-7F91C4321546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Downloads.Server", "Downloads.Server\Downloads.Server.csproj", "{AF104A57-00A3-459C-BAE6-7F91C4321546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downloads.Scheduler", "Downloads.Scheduler\Downloads.Scheduler.csproj", "{D884ADC0-E17F-4ABD-B943-40C04BCF167E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Downloads.Storage", "Downloads.Storage\Downloads.Storage.csproj", "{B0203CCC-CB72-4692-9A10-93F21AC09A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AF104A57-00A3-459C-BAE6-7F91C4321546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF104A57-00A3-459C-BAE6-7F91C4321546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF104A57-00A3-459C-BAE6-7F91C4321546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D884ADC0-E17F-4ABD-B943-40C04BCF167E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D884ADC0-E17F-4ABD-B943-40C04BCF167E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D884ADC0-E17F-4ABD-B943-40C04BCF167E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D884ADC0-E17F-4ABD-B943-40C04BCF167E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0203CCC-CB72-4692-9A10-93F21AC09A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0203CCC-CB72-4692-9A10-93F21AC09A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0203CCC-CB72-4692-9A10-93F21AC09A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0203CCC-CB72-4692-9A10-93F21AC09A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
