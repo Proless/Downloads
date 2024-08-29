@@ -18,7 +18,7 @@ Downloads is an innovative software solution designed to serve as a central hub 
 
 ## Target Users
 
-Describe the intended audience or user groups for the software.
+**Downloads** is versatile enough to benefit a wide array of users, from individual power users to organizations. Whether the need is for centralized download management, automation, or integration with other tools, the system's flexibility and extensibility make it a valuable tool for anyone dealing with frequent or large-scale content downloads.
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ Outline guidelines for contributing to the project, including how to submit issu
 
 ## License
 
-Specify the license under which the project is distributed.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the software, provided that the original copyright notice and permission notice are included in all copies or substantial portions of the software.
 
 ## Contact Information
 
