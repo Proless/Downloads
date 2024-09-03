@@ -1,20 +1,20 @@
 # Downloads
 
-Downloads is an innovative software solution designed to serve as a central hub for managing content downloads from various sources across the network. This application simplifies the download process by consolidating multiple download methods into a single, user-friendly interface.
+Downloads is a software solution designed to serve as a central hub for managing content downloads from various sources across the network. This application simplifies the download process by consolidating multiple download methods into a single, user-friendly interface.
 ### Main Features
 * **Centralized Download Management:** Users can efficiently manage and monitor all their downloads in one location, eliminating the need to switch between different download tools.
 
-* **Support for Download Engines:** The system supports the integration of various external download software through a flexible plugin or extension system. These downloadable components, referred to as Download Engines, can be easily added to enhance the system's capabilities.
+* **Support for Download Engines:** The system supports the integration of various external download software through extensions. These extensions, referred to as Download Engines, can be easily added to extend the system's capabilities. 
 
-* **Multi-Protocol Support:** The software aims to support multiple download protocols (such as HTTP, FTP, and more), providing users with diverse options for content retrieval.
+* **Multi-Protocol Support:** The Download Engines determine which Protocols will be supported (such as HTTP, FTP, and more).
 
 * **API Support:** The system includes a RESTful API that allows users and developers to initiate, manage, and query downloads programmatically. This feature enables integration with other systems and automation tools.
 
-* **Scheduler:** A built-in scheduler allows users to plan and schedule downloads at specific times, ensuring that downloads can be initiated automatically at optimal times.
+* **Scheduler:** A built-in scheduler allows users to plan and schedule downloads at specific times, ensuring that downloads can be initiated automatically at optimal times or based on predefined Events.
 
-* **Workflows/Pipelines:** The system supports creating custom workflows or pipelines that can trigger actions based on specific download events (e.g., download finished, failed, paused). This feature allows users to automate post-download actions such as file processing, notifications, or transferring files to another location.
+* **Workflows:** The system supports creating custom workflows that can trigger actions based on specific download events (e.g., download finished, failed, paused). This feature allows users to automate post-download actions such as file processing, notifications, or transferring files to another location.
 
-* **Multiple Storage Backends:** The system supports a variety of storage backends, enabling users to save downloads to local storage as well as remote locations like network shares (NFS, SMB), FTP, FTPS, SSHFS, and other protocols. This flexibility ensures that downloads can be stored in the most convenient or secure location depending on user needs.
+* **Multiple Storage Backends:** The system supports a variety of storage backends, enabling users to save downloads to local storage as well as remote locations like network shares (NFS, SMB), FTP, FTPS, SSHFS, and other protocols.
 
 ## Installation
 
