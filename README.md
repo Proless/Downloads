@@ -6,7 +6,7 @@ Downloads is a software solution designed to serve as a central hub for managing
 
 * **Support for Download Engines:** The system supports the integration of various external download software through extensions. These extensions, referred to as Download Engines, can be easily added to extend the system's capabilities. 
 
-* **Multi-Protocol Support:** The Download Engines determine which Protocols will be supported (such as HTTP, FTP, and more).
+* **Multi-Protocol Support:** Multiple Protocols (such as HTTP, FTP, and more) can be supported through Download Engines.
 
 * **API Support:** The system includes a RESTful API that allows users and developers to initiate, manage, and query downloads programmatically. This feature enables integration with other systems and automation tools.
 
