@@ -10,8 +10,6 @@ Downloads is a software solution designed to serve as a central hub for managing
 
 * **API Support:** The system includes a RESTful API that allows users and developers to initiate, manage, and query downloads programmatically. This feature enables integration with other systems and automation tools.
 
-* **Scheduler:** A built-in scheduler allows users to plan and schedule downloads at specific times, ensuring that downloads can be initiated automatically at optimal times or based on predefined Events.
-
 * **Workflows:** The system supports creating custom workflows that can trigger actions based on specific download events (e.g., download finished, failed, paused). This feature allows users to automate post-download actions such as file processing, notifications, or transferring files to another location.
 
 * **Multiple Storage Backends:** The system supports a variety of storage backends, enabling users to save downloads to local storage as well as remote locations like network shares (NFS, SMB), FTP, FTPS, SSHFS, and other protocols.
